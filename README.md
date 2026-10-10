@@ -3,11 +3,11 @@
   <img src="assets/banner-light.svg" width="100%" alt="Atakan San: automation that keeps itself honest. Local-first, self-healing, security-first.">
 </picture>
 
-I design and run a personal automation estate: dozens of small, self-healing tools that watch, verify and repair my day-to-day work, so it keeps running without me. Almost all of it lives in private repositories; this page is the window.
+I build small, self-healing tools that watch, verify and repair themselves. Most of my work lives in private repositories; this page is the window.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" width="100%" alt="4,000+ contributions. 30+ repositories, built and maintained. 1 rule: root cause before fix.">
+  <img src="assets/stats-light.svg" width="100%" alt="4,000+ contributions.">
 </picture>
 
 ## What I build

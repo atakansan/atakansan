@@ -1,20 +1,43 @@
-# Hi, I'm Atakan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Atakan San: automation that keeps itself honest. Local-first, self-healing, security-first.">
+</picture>
 
-I design and run a personal automation estate: dozens of small, self-healing tools that watch, verify and fix my day-to-day work so it runs without me. **4,000+ contributions in the last year**, almost all of them in private repositories.
+I design and run a personal automation estate: dozens of small, self-healing tools that watch, verify and repair my day-to-day work, so it keeps running without me. Almost all of it lives in private repositories; this page is the window.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="4,000+ contributions in the last year. 30+ repositories, built and maintained. 1 rule: root cause before fix.">
+</picture>
 
 ## What I build
 
-- **Automation that keeps itself honest** — scheduled jobs with health checks, regression tests and guards that are themselves mutation-tested.
-- **Observability** — dashboards that show what is actually true, not just what is green.
-- **Local-first tools** — software that runs on its owner's machine, keeps data private and needs no server.
+| | |
+|---|---|
+| **Automation that keeps itself honest** | Scheduled jobs with health checks, regression tests on both sides of every boundary, and guards that are themselves mutation-tested. |
+| **Observability that tells the truth** | Dashboards that show what is actually happening, not just what is green, and flag the moment a check starts lying. |
+| **Local-first tools** | Software that runs on its owner's machine, keeps data private and needs no server. |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="">
+</picture>
 
 ## Public work
 
-- [ariadne-site](https://github.com/atakansan/ariadne-site) — public home, privacy policy and terms for **Ariadne**, a personal Google Drive organizer that runs on its owner's own computer.
+**[Ariadne](https://github.com/atakansan/ariadne-site)**: a personal Google Drive organizer that maps every folder into ten named rooms, finds duplicates and clutter, and moves files only after its owner approves the plan. Every change is reversible.
 
 ## Principles
 
-- **Root cause before fix.** No retries, sleeps or silenced checks without evidence.
-- **Security first.** No secrets in code, least privilege, every change reviewed before it goes public.
-- **Set and forget.** A fix is done when it is tested, guarded and needs no follow-up.
-- **Accessible by default.** Semantic HTML, visible focus, light and dark themes.
+1. **Root cause before fix.** No retries, sleeps or silenced checks without evidence.
+2. **Verify the measurement.** A green check proves nothing until you know the check itself is honest.
+3. **Security first.** No secrets in code, least privilege, every change reviewed before it goes public.
+4. **Set and forget.** A fix is done when it is tested, guarded and needs no follow-up.
+5. **Accessible by default.** Semantic HTML, visible focus, light and dark themes, reduced motion respected.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+<sub>Every graphic on this page is hand-built SVG served from this repository: no trackers, no third-party widgets.</sub>

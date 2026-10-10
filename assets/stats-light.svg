@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1224" height="160" viewBox="0 0 1224 160" role="img" aria-label="4,000+ contributions in the last year; 30+ repositories; 1 rule: root cause before fix">
-<title>4,000+ contributions in the last year; 30+ repositories; 1 rule: root cause before fix</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1224" height="160" viewBox="0 0 1224 160" role="img" aria-label="4,000+ contributions; 30+ repositories; 1 rule: root cause before fix">
+<title>4,000+ contributions; 30+ repositories; 1 rule: root cause before fix</title>
 <style>
 .big { font: 600 52px 'Iowan Old Style', Palatino, Georgia, serif; fill: #1c2230; }
 .small { font: 400 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #5b6170; }
@@ -11,7 +11,7 @@
 <rect x="0.5" y=".5" width="391" height="159" rx="18" fill="#fffaf1" stroke="#d9cfbd"/>
 <rect x="28" y="30" width="36" height="3" rx="1.5" fill="#a87a1c"/>
 <text class="big" x="28" y="98">4,000+</text>
-<text class="small" x="28" y="130">contributions in the last year</text>
+<text class="small" x="28" y="130">contributions</text>
 </g>
 <g class="tile" style="animation-delay:0.15s">
 <rect x="416.5" y=".5" width="391" height="159" rx="18" fill="#fffaf1" stroke="#d9cfbd"/>

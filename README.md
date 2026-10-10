@@ -7,7 +7,7 @@ I design and run a personal automation estate: dozens of small, self-healing too
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" width="100%" alt="4,000+ contributions in the last year. 30+ repositories, built and maintained. 1 rule: root cause before fix.">
+  <img src="assets/stats-light.svg" width="100%" alt="4,000+ contributions. 30+ repositories, built and maintained. 1 rule: root cause before fix.">
 </picture>
 
 ## What I build

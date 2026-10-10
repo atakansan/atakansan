@@ -12,11 +12,9 @@ I design and run a personal automation estate: dozens of small, self-healing too
 
 ## What I build
 
-| | |
-|---|---|
-| **Automation that keeps itself honest** | Scheduled jobs with health checks, regression tests on both sides of every boundary, and guards that are themselves mutation-tested. |
-| **Observability that tells the truth** | Dashboards that show what is actually happening, not just what is green, and flag the moment a check starts lying. |
-| **Local-first tools** | Software that runs on its owner's machine, keeps data private and needs no server. |
+- **Automation that keeps itself honest.** Scheduled jobs with health checks, regression tests on both sides of every boundary, and guards that are themselves mutation-tested.
+- **Observability that tells the truth.** Dashboards that show what is actually happening, not just what is green, and flag the moment a check starts lying.
+- **Local-first tools.** Software that runs on its owner's machine, keeps data private and needs no server.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">

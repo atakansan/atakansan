@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1224" height="160" viewBox="0 0 1224 160" role="img" aria-label="4,000+ contributions in the last year; 30+ repositories; 1 rule: root cause before fix">
+<title>4,000+ contributions in the last year; 30+ repositories; 1 rule: root cause before fix</title>
+<style>
+.big { font: 600 52px 'Iowan Old Style', Palatino, Georgia, serif; fill: #ece6d9; }
+.small { font: 400 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #9aa3b5; }
+.tile { animation: rise .9s ease-out both; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="tile" style="animation-delay:0.00s">
+<rect x="0.5" y=".5" width="391" height="159" rx="18" fill="#0f1a2c" stroke="#24324a"/>
+<rect x="28" y="30" width="36" height="3" rx="1.5" fill="#e0b453"/>
+<text class="big" x="28" y="98">4,000+</text>
+<text class="small" x="28" y="130">contributions in the last year</text>
+</g>
+<g class="tile" style="animation-delay:0.15s">
+<rect x="416.5" y=".5" width="391" height="159" rx="18" fill="#0f1a2c" stroke="#24324a"/>
+<rect x="444" y="30" width="36" height="3" rx="1.5" fill="#e0b453"/>
+<text class="big" x="444" y="98">30+</text>
+<text class="small" x="444" y="130">repositories, built and maintained</text>
+</g>
+<g class="tile" style="animation-delay:0.30s">
+<rect x="832.5" y=".5" width="391" height="159" rx="18" fill="#0f1a2c" stroke="#24324a"/>
+<rect x="860" y="30" width="36" height="3" rx="1.5" fill="#e0b453"/>
+<text class="big" x="860" y="98">1</text>
+<text class="small" x="860" y="130">rule: root cause before fix</text>
+</g>
+</svg>
